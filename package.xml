@@ -1,0 +1,17 @@
+<package>
+  <name>qcar</name>
+  <version>1.0.0</version>
+  <description>
+    URDF Description package for Quanser's QCar
+  </description>
+  <author>Quanser</author>
+  <maintainer email="techsupport@quanser.com" />
+  <license>BSD</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <run_depend>roslaunch</run_depend>
+  <run_depend>robot_state_publisher</run_depend>
+  <run_depend>rviz</run_depend>
+  <run_depend>joint_state_publisher</run_depend>
+  <run_depend>gazebo_ros</run_depend>
+  <run_depend>gazebo_ros_control</run_depend>
+</package>
